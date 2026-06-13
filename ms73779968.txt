@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Domain ownership verification file for Microsoft 365 - place in the website root",
+  "Domain": "snehshanticlinic.com",
+  "Id": "92a0eeb8-9925-4923-b3d8-8c5ca2cdfeb0"
+}
